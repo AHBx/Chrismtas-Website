@@ -1,0 +1,141 @@
+.page_body {
+	background-image: url("images/bgOranges.jpg");
+	background-color: black;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: 100%;
+}
+
+.page_recipes {
+	background-image: url("images/bgRecipeChris.jpg");
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+}
+
+
+.header {
+	width: 100%;
+	height: 100px;
+	background: rgba(255, 255, 255, 0.4);
+	position: top;
+	font-size: 80px;
+	font-family: cursive;
+	margin-bottom: 10px;
+}
+
+.footer {
+	width: 100%;
+	height: 20px;
+	background-color: darkgrey;
+	position: fixed;
+}
+
+.left {
+	width: 30%;
+	height: 1100px;
+	float: left;
+	padding-top: 10px;
+
+}
+
+.right {
+	padding-left: 20px;
+	width: 67%;
+	height: 1100px;
+	float: left;
+}
+
+.container {
+	width: 80%;
+	height: 1200px;
+	background-color: white;
+	background: rgba(255, 255, 255, 0.4);
+	margin: auto;
+	border: 0;
+	padding: 10px;
+
+}
+
+.menuHeader {
+	font-size: 18px;
+	font-weight: bold;
+	font-family: cursive;
+}
+
+.menuList {
+	font-size: 15px;
+	font-family: cursive;
+}
+
+.bold {
+	font-weight: bold;
+	font-size: 20px;
+}
+
+.recipe {
+	width: 570px;
+	height: 400px;
+	background-image: url("images/bgParsnips.jpg");
+	background-position: center right;
+	background-size: 580px;
+}
+
+.recipe1 {
+	width: 570px;
+	height: 400px;
+	background-image: url("images/bgStuffing.jpg");
+	background-position: center right;
+	background-size: 580px;
+}
+
+.recipe2 {
+	width: 570px;
+	height: 400px;
+	background-image: url("images/bgAlmond.jpg");
+	background-position: center right;
+	background-size: 580px;
+}
+
+.recipe4 {
+	width: 570px;
+	height: 400px;
+	background-image: url("images/bgPigs.jpg");
+	background-position: center right;
+	background-size: 580px;
+}
+
+
+
+.recipeSide {
+	float: right;
+	background: rgba(0, 0, 0, 0.4);
+	height: 100%;
+}
+
+
+.recipeTitle {
+	font-family: sans-serif;
+	height: 20px;
+	text-align: right;
+	color: white;
+	padding-left: 20px;
+	padding-right: 20px;
+	font-size: 10px;
+	font-weight: bold;
+
+}
+
+.recipeInfo {
+	width: 280px;
+	font-family: Sans-serif;
+	color: white;
+	padding-left: 20px;
+	padding-top: 8px;
+	font-size: 5px;
+	text-align: left;
+}
+
+.small {
+  line-height: 0.7;
+}
