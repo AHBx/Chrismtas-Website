@@ -1,5 +1,5 @@
 .page_body {
-	background-image: url("images/bgChristmas.jpg");
+	background-image: url("images/bgOranges.jpg");
 	background-color: black;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
@@ -11,7 +11,6 @@
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-attachment: fixed;
-	background-color: black;
 }
 
 
@@ -106,9 +105,11 @@
 	background-size: 580px;
 }
 
+
+
 .recipeSide {
 	float: right;
-	background: rgba(0, 0, 0, 0.6);
+	background: rgba(0, 0, 0, 0.4);
 	height: 100%;
 }
 
